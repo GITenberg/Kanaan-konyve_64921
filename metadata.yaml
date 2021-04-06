@@ -1,5 +1,8 @@
 _repo: Kanaan-konyve_64921
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Krúdy, Gyula
@@ -14,6 +17,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
     - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64921#Kanaan-konyve
 gutenberg_issued: '2021-03-24'
 gutenberg_type: Text
 identifiers:
