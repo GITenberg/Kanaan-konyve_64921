@@ -1,0 +1,37 @@
+_repo: Kanaan-konyve_64921
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krúdy, Gyula
+    aliases:
+    - Круди, Дюла
+    - Krudy, Gyula
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '41227'
+    url: http://www.gutenberg.org/2009/agents/41227
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
+    - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
+description: ''
+gutenberg_issued: '2021-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64921'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Előhang -- Magyar hasak -- Józsefnapi vendégek -- Fogadó a régi világhoz
+  -- A vendég az ebédlőben -- A borász -- Egy régi ember vallomása -- Angyalos bankó
+  -- Júniusi alkony -- Szentiván -- Nyári fény -- Új kenyér -- Bodega -- Tavaszi út
+  1917-ben -- Pest aranykora -- Jegyzet egy régi kalendáriomba 1917-ben -- Az álomlátók
+  -- Baljóslatú nap -- Szüreti dal -- Néma Magyarország -- Az amazonok harca 1917-ben
+  -- Ramsli -- Magyar sóhaj -- A budai vár.
+title: Kánaán könyve
+url: http://www.gutenberg.org/ebooks/64921
